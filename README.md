@@ -15,20 +15,20 @@ Este projeto investiga a relação entre o uso de redes sociais e a produtividad
 - Fatores de estilo de vida (horas de sono, níveis de estresse)
 
 ## Estrutura do Projeto
-```js
+```bash
 /social-media-productivity
-│── /data
-│   ├── raw_data.csv
-│   └── processed_data.csv
-│── /notebooks
-│   ├── data_cleaning.ipynb
-│   ├── exploratory_analysis.ipynb
-│   └── modeling.ipynb
-│── /reports
-│   ├── project_report.md
-│   └── project_report.pdf
-│── requirements.txt
-└── README.md
+│── /dados # Arquivos de dados
+│ ├── dados_brutos.csv # Dataset original
+│ └── dados_processados.csv # Dados limpos e transformados
+│── /notebooks # Jupyter notebooks para cada fase
+│ ├── 1_limpeza_dados.ipynb
+│ ├── 2_analise_exploratoria.ipynb
+│ └── 3_modelagem.ipynb
+│── /relatorios # Documentação do projeto
+│ ├── relatorio_final.md
+│ └── relatorio_final.pdf
+│── requirements.txt # Dependências Python
+└── README.md # Este arquivo
 ```
 
 

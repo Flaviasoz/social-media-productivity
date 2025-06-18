@@ -21,9 +21,9 @@ Este projeto investiga a relação entre o uso de redes sociais e a produtividad
 │ ├── dados_brutos.csv # Dataset original
 │ └── dados_processados.csv # Dados limpos e transformados
 │── /notebooks # Jupyter notebooks para cada fase
-│ ├── 1_limpeza_dados.ipynb
-│ ├── 2_analise_exploratoria.ipynb
-│ └── 3_modelagem.ipynb
+│ ├── limpeza_dados.ipynb
+│ ├── analise_exploratoria.ipynb
+│ └── modelagem.ipynb
 │── /relatorios # Documentação do projeto
 │ ├── relatorio_final.md
 │ └── relatorio_final.pdf

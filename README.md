@@ -73,5 +73,5 @@ Execute os notebooks em sequência:
 198779 - Vinicius Loeblein
 
 ## Agradecimentos
-Fornecedor do dataset: Mahdi Mashayekhi
-Inspiração: Estudos sobre bem-estar digital
+* Fornecedor do dataset: Mahdi Mashayekhi
+* Inspiração: Estudos sobre bem-estar digital

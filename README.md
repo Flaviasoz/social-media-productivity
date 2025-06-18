@@ -69,8 +69,8 @@ Execute os notebooks em sequência:
 * jupyter
 
 ## Contribuidores
-198726 - Flávia Souza
-198779 - Vinicius Loeblein
+* 198726 - Flávia Souza
+* 198779 - Vinicius Loeblein
 
 ## Agradecimentos
 * Fornecedor do dataset: Mahdi Mashayekhi

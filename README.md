@@ -24,10 +24,10 @@ Este projeto investiga a relação entre o uso de redes sociais e a produtividad
 │ ├── limpeza_dados.ipynb
 │ ├── analise_exploratoria.ipynb
 │ └── modelagem.ipynb
-│── /relatorios # Documentação do projeto
+│── /relatorios
 │ ├── rel_limpeza_dados.pdf
 │ └── relatorio_final.pdf
-│── requirements.txt # Dependências Python
+│── requirements.md # Dependências do projeto
 └── README.md # Este arquivo
 ```
 

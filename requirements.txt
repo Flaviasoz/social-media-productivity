@@ -1,30 +1,13 @@
-# Arquivo de Requisitos (requirements.txt)
-# Dependências para o projeto de análise de Redes Sociais vs Produtividade
-
-# Versões principais
-python==3.8.12
-
-# Bibliotecas básicas
-numpy==1.21.5
-pandas==1.4.2
-
-# Visualização de dados
-matplotlib==3.5.2
-seaborn==0.11.2
-plotly==5.8.0
-
-# Machine Learning
-scikit-learn==1.0.2
-statsmodels==0.13.2
-
-# Ambiente Jupyter
-jupyter==1.0.0
-ipykernel==6.15.1
-
-# Utilitários
-openpyxl==3.0.10  # Para leitura de arquivos Excel
-python-dotenv==0.19.2  # Para gerenciamento de variáveis de ambiente
-
-# Testes (opcional)
-pytest==7.1.2
-pytest-cov==3.0.0
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+scikit-learn
+statsmodels
+jupyter
+ipykernel
+openpyxl
+python-dotenv
+pytest
+pytest-cov

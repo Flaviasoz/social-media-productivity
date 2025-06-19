@@ -18,14 +18,14 @@ Este projeto investiga a relação entre o uso de redes sociais e a produtividad
 ```bash
 /social-media-productivity
 │── /dados # Arquivos de dados
-│ ├── dados_brutos.csv # Dataset original
-│ └── dados_processados.csv # Dados limpos e transformados
+│ ├── social_media_vs_productivity.csv
+│ └── dados_processados.csv
 │── /notebooks # Jupyter notebooks para cada fase
 │ ├── limpeza_dados.ipynb
 │ ├── analise_exploratoria.ipynb
 │ └── modelagem.ipynb
 │── /relatorios # Documentação do projeto
-│ ├── relatorio_final.md
+│ ├── rel_limpeza_dados.pdf
 │ └── relatorio_final.pdf
 │── requirements.txt # Dependências Python
 └── README.md # Este arquivo

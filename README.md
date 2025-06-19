@@ -41,13 +41,10 @@ Este projeto investiga a relação entre o uso de redes sociais e a produtividad
 
 ## Instalação
 
-1. Clone o repositório:
+ Clone o repositório:
 ```bash
 git clone https://github.com/seuusuario/social-media-productivity.git
 ```
-
-2. Instale as dependências:
-pip install -r requirements.txt
 
 ## Como Usar
 Execute os notebooks em sequência:

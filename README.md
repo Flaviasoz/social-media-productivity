@@ -21,16 +21,16 @@ Este projeto investiga a relação entre o uso de redes sociais e a produtividad
 │ ├── processed_data.csv
 │ └── social_media_vs_productivity.csv
 │── /notebooks # notebooks para cada fase
-│ ├── limpeza_dados.ipynb
 │ ├── analise_exploratoria.ipynb
+│ ├── limpeza_dados.ipynb 
 │ └── modelagem.ipynb
 │── /relatorios
 │ ├── plano_de_aula.pdf
 │ ├── rel_analise_exploratoria.pdf
 │ ├── rel_limpeza_dados.pdf
 │ └── rel_modelagem.pdf
-│── requirements.md # Dependências do projeto
-└── README.md # Este arquivo
+│── README.md # Este arquivo
+└── requirements.md # Dependências do projeto
 ```
 
 ## Instalação

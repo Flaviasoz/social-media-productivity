@@ -34,3 +34,33 @@ Este projeto utiliza as seguintes bibliotecas Python para modelagem e avaliaçã
 ```python
 !pip install -q kagglehub pdfkit weasyprint xgboost scikit-learn
 !apt-get update && apt-get install -y wkhtmltopdf
+```
+
+# Imports utilizados no notebook
+
+```python
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+from sklearn.model_selection import train_test_split, cross_val_score
+from sklearn.preprocessing import StandardScaler
+from sklearn.metrics import mean_absolute_error, r2_score
+from sklearn.linear_model import LinearRegression
+from sklearn.ensemble import RandomForestRegressor
+from sklearn.svm import SVR
+import xgboost as xgb
+import warnings
+import os
+import requests
+from io import StringIO
+import matplotlib.ticker as mtick
+from weasyprint import HTML
+import datetime
+from google.colab import files
+
+warnings.filterwarnings('ignore')
+plt.style.use('seaborn-v0_8-whitegrid')
+%matplotlib inline
+os.makedirs("imgs_temp", exist_ok=True)
+```

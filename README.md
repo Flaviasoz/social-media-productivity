@@ -26,19 +26,12 @@ Este projeto investiga a relação entre o uso de redes sociais e a produtividad
 │ └── modelagem.ipynb
 │── /relatorios
 │ ├── plano_de_aula.pdf
-│ └── rel_analise_exploratoria.pdf
-│ └── rel_limpeza_dados.pdf
+│ ├── rel_analise_exploratoria.pdf
+│ ├── rel_limpeza_dados.pdf
+│ └── rel_modelagem.pdf
 │── requirements.md # Dependências do projeto
 └── README.md # Este arquivo
 ```
-
-
-## Principais Resultados
-
-1. Correlação negativa (-0.52) entre uso de redes sociais e produtividade
-2. Limiar crítico em ~2 horas/dia de uso de redes sociais
-3. Qualidade do sono surgiu como fator significativo
-4. Modelo Random Forest obteve melhor desempenho (MAE = 9.8)
 
 ## Instalação
 

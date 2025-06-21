@@ -19,8 +19,8 @@ Este projeto investiga a relação entre o uso de redes sociais e a produtividad
 /social-media-productivity
 │── /dados # Arquivos de dados
 │ ├── social_media_vs_productivity.csv
-│ └── dados_processados.csv
-│── /notebooks # Jupyter notebooks para cada fase
+│ └── processed_data.csv
+│── /notebooks # notebooks para cada fase
 │ ├── limpeza_dados.ipynb
 │ ├── analise_exploratoria.ipynb
 │ └── modelagem.ipynb

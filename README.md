@@ -49,23 +49,6 @@ Execute os notebooks em sequência:
 
 3. modelagem.ipynb
 
-## Dependências
-
-* Python 3.8+
-* pandas
-* numpy
-* matplotlib
-* seaborn
-* scikit-learn
-* jupyter
-* scipy
-* weasyprint
-* pdfkit
-* kagglehub
-* google.colab
-* nbconvert
-* nbformat
-
 ## Contribuidores
 * 198726 - Flávia Souza
 * 198779 - Vinicius Loeblein

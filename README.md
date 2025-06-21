@@ -17,16 +17,17 @@ Este projeto investiga a relação entre o uso de redes sociais e a produtividad
 ## Estrutura do Projeto
 ```bash
 /social-media-productivity
-│── /dados # Arquivos de dados
-│ ├── social_media_vs_productivity.csv
-│ └── processed_data.csv
+│── /data # Arquivos de dados
+│ ├── processed_data.csv
+│ └── social_media_vs_productivity.csv
 │── /notebooks # notebooks para cada fase
 │ ├── limpeza_dados.ipynb
 │ ├── analise_exploratoria.ipynb
 │ └── modelagem.ipynb
 │── /relatorios
-│ ├── rel_limpeza_dados.pdf
-│ └── relatorio_final.pdf
+│ ├── plano_de_aula.pdf
+│ └── rel_analise_exploratoria.pdf
+│ └── rel_limpeza_dados.pdf
 │── requirements.md # Dependências do projeto
 └── README.md # Este arquivo
 ```
@@ -64,6 +65,13 @@ Execute os notebooks em sequência:
 * seaborn
 * scikit-learn
 * jupyter
+* scipy
+* weasyprint
+* pdfkit
+* kagglehub
+* google.colab
+* nbconvert
+* nbformat
 
 ## Contribuidores
 * 198726 - Flávia Souza

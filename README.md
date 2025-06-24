@@ -37,7 +37,7 @@ Este projeto investiga a relação entre o uso de redes sociais e a produtividad
 
  Clone o repositório:
 ```bash
-git clone https://github.com/seuusuario/social-media-productivity.git
+git clone https://github.com/Flaviasoz/social-media-productivity.git
 ```
 
 ## Como Usar
